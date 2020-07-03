@@ -1,22 +1,22 @@
 # Your Name or Company
-title: Uni Kravitz
+title: DL Evans
 
 # Description of your website. This is used for social sharing.
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: I focus on IP delivery of video. Putting videos on people's phone is entertaining for both parties. I'm interested in new technologies and fun stuff outdoors.
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/davemane
   - platform: facebook
     url: https://facebook.com/brianmaierjr
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/davemane
   - platform: linkedin
-    url: brianmaierjr
+    url: david-evans-80597a46
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
