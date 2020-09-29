@@ -9,12 +9,12 @@ content: I'm Dave. I work with emerging technologies and focus on IP video deliv
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/davemane
-  - platform: facebook
-    url: https://facebook.com/barackobama
-  - platform: twitter
-    url: https://twitter.com/davemane
+#  - platform: github
+#    url: https://github.com/davemane
+#  - platform: facebook
+#    url: https://facebook.com/barackobama
+#  - platform: twitter
+#    url: https://twitter.com/davemane
   - platform: linkedin
     url: https://www.linkedin.com/in/david-evans-80597a46/
 
