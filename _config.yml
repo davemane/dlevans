@@ -5,7 +5,7 @@ title: DL Evans
 description:  Me on a website.
 
 # A brief blurb about yourself
-content: I'm Dave. I work with emerging technologies and focus on IP video delivery.
+content: I'm DL. I work with emerging technologies and focus on IP video delivery. <br> I have a recreational interest with Bitcoin. Laser eyes and Diamond Hands.
 
 # Add your social links
 social:
@@ -15,8 +15,8 @@ social:
 #    url: https://facebook.com/barackobama
 #  - platform: twitter
 #    url: https://twitter.com/davemane
-  - platform: linkedin
-    url: https://www.linkedin.com/in/david-evans-80597a46/
+#  - platform: linkedin
+#    url: https://www.linkedin.com/in/david-evans-80597a46/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
